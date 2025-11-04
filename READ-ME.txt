@@ -1,11 +1,30 @@
-  =>  Template Name    : John Doe - Personal CV Website Template
+# Mr. LS - Personal Portfolio Website
 
-  =>  Template Link    : https://htmlcodex.com/personal-cv-website-template
+Bienvenue sur mon portfolio personnel !  
+Ce site web présente mon parcours, mes compétences, mes projets et mes services en tant que JUNIOR SOFTWARE DEVELOPER et FUTUR DEVOPS ENGINEER.  
+Il a été conçu pour servir de vitrine professionnelle et de point de contact pour les collaborations, les opportunités et les projets digitaux.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+---
 
-  =>  Template Author  : HTML Codex
+## Objectif du projet
 
-  =>  Author Website   : https://htmlcodex.com
+- Mettre en valeur mes compétences techniques et mes expériences.  
+- Présenter mes projets réalisés et mes services.  
+- Permettre aux visiteurs de me contacter facilement via un formulaire connecté à Formspree.  
+- Servir de base pour apprendre à déployer, maintenir et tester un site web personnel.
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+---
+
+## Technologies utilisées
+
+- HTML5 
+- CSS3 / Bootstrap 4  
+- JavaScript / jQuery
+- Owl Carousel, Isotope, Lightbox  
+- Formspree (pour la gestion des messages du formulaire de contact)  
+
+---
+
+
+## Lien vers mon portfolio : https://kolonel-landers.github.io/mon-portfolio/ 
+
