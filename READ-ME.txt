@@ -1,46 +1,78 @@
-<<<<<<< HEAD
-# Mr. LS - Personal Portfolio Website
+# Portfolio Personnel - Mr. LS
 
-Bienvenue sur mon portfolio personnel !  
-Ce site web présente mon parcours, mes compétences, mes projets et mes services en tant que JUNIOR SOFTWARE DEVELOPER et FUTUR DEVOPS ENGINEER.  
-Il a été conçu pour servir de vitrine professionnelle et de point de contact pour les collaborations, les opportunités et les projets digitaux.
+## Informations générales
+- **Auteur** : Sandjon Landry
+- **Date de création** : 28/10/2025
+- **Dernière mise à jour** : 05/11/2025
+- **Technologies utilisées** : HTML5, CSS3, Bootstrap 4, JavaScript, jQuery, Owl Carousel, Isotope, Lightbox, Formspree
+- **Résumé / Objectif** : Portfolio personnel présentant mes projets, compétences et contact, conçu pour montrer mon travail en tant que développeur junior.
 
----
+## Installation et configuration
+### Prérequis
+- Navigateur moderne (Chrome, Firefox, Edge)
+- Connexion Internet (pour charger les librairies via Content Delivery Network (Réseau de Distribution de Contenu)).
 
-## Objectif du projet
+### Étapes
+1. Cloner le dépôt :  
+   ```bash
+   git clone https://github.com/kolonel-landers/mon-portfolio.git
 
-- Mettre en valeur mes compétences techniques et mes expériences.  
-- Présenter mes projets réalisés et mes services.  
-- Permettre aux visiteurs de me contacter facilement via un formulaire connecté à Formspree.  
-- Servir de base pour apprendre à déployer, maintenir et tester un site web personnel.
+2. Ouvrir le fichier index.html dans le navigateur
 
----
+3. Aucun serveur ou configuration particulière nécessaire
 
-## Technologies utilisées
-
-- HTML5 
-- CSS3 / Bootstrap 4  
-- JavaScript / jQuery
-- Owl Carousel, Isotope, Lightbox  
-- Formspree (pour la gestion des messages du formulaire de contact)  
-
----
+4. Pour tester le formulaire de contact, vérifier que Formspree est bien configuré avec votre email
 
 
-## Lien vers mon portfolio : https://kolonel-landers.github.io/mon-portfolio/ 
+#### Structure du projet
+/portfolio
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── img/
+│   └── [Images du portfolio]
+└── README.md
+-> index.html : Page principale du portfolio
+-> css/style.css : Styles personnalisés
+-> js/main.js : Scripts JavaScript pour interactivité
+-> img/ : Images utilisées dans le portfolio
 
-j'ai testé le contraste de mes textes sur WebAIM Contrast Checker
 
-=======
-  =>  Template Name    : John Doe - Personal CV Website Template
+##### Fonctionnalités
+- Menu de navigation responsive
+- Sections : À propos, Projets, Compétences, Contact
+- Galerie d’images filtrable avec Isotope
+- Carrousel d’images avec Owl Carousel
+- Lightbox pour visualiser les images en grand
+- Formulaire de contact fonctionnel via Formspree
+- Design responsive (mobile, tablette, desktop)
 
-  =>  Template Link    : https://htmlcodex.com/personal-cv-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+###### Utilisation
+- Naviguer avec le menu en haut de la page
+- Cliquer sur les filtres dans la section Projets pour afficher certaines catégories
+- Cliquer sur les images pour les voir en grand via Lightbox
+- Remplir le formulaire de contact pour envoyer un message via Formspree
 
-  =>  Template Author  : HTML Codex
 
-  =>  Author Website   : https://htmlcodex.com
+####### Problèmes connus et limitations
+- Le formulaire de contact nécessite une configuration Formspree pour fonctionner
+- Certains effets CSS peuvent légèrement varier selon les navigateurs
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
->>>>>>> f79860d2419d3367f457bcbb080c7f382d997cad
+
+######## Améliorations futures
+- Ajouter une section blog ou articles
+- Implémenter des animations plus avancées avec JavaScript
+- Ajouter un mode sombre pour le portfolio
+- Optimiser le site pour le référencement (SEO)
+
+
+######### Références et crédits
+- Bootstrap 4 : https://getbootstrap.com
+- jQuery : https://jquery.com
+- Owl Carousel : https://owlcarousel2.github.io/OwlCarousel2/
+- Isotope : https://isotope.metafizzy.co/
+- Lightbox : https://lokeshdhakar.com/projects/lightbox2/
+- Formspree : https://formspree.io
