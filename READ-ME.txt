@@ -29,6 +29,8 @@ Il a été conçu pour servir de vitrine professionnelle et de point de contact 
 
 ## Lien vers mon portfolio : https://kolonel-landers.github.io/mon-portfolio/ 
 
+j'ai testé le contraste de mes textes sur WebAIM Contrast Checker
+
 =======
   =>  Template Name    : John Doe - Personal CV Website Template
 
