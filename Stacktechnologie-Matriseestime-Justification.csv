@@ -1,0 +1,60 @@
+FRONT-END
+| Technologie     | Maîtrise estimée | Justification                                                                 |
+| --------------- | ---------------: | ----------------------------------------------------------------------------- |
+| HTML5           |              85% | Plusieurs interfaces, portfolios, sites vitrines et borne visiteur            |
+| CSS3            |              75% | Interfaces responsives, composants UI, charte graphique et adaptation tactile |
+| JavaScript ES6+ |              70% | Manipulation du DOM, formulaires, logique d’interface, CRUD et appels API     |
+| Fetch API       |              70% | Communication frontend/backend et consommation d’API externe                  |
+| Async/Await     |              65% | Utilisé pour les requêtes asynchrones sur Smart Task Manager                  |
+| Bootstrap       |              70% | Création de portfolios et sites vitrines responsives                          |
+| React           |              55% | Movie List, ToDo List et contribution au dashboard BAFOKA                     |
+| Tailwind CSS    |              50% | Expérience dans le cadre du dashboard BAFOKA                                  |
+
+
+
+BACKEND
+| Technologie           | Maîtrise estimée | Justification                                                               |
+| --------------------- | ---------------: | --------------------------------------------------------------------------- |
+| Python                |              60% | Développement backend Django et configuration d’environnement               |
+| Django                |              60% | API, modèles, migrations, configuration et déploiement de la borne visiteur |
+| Django REST Framework |              55% | Création d’API REST pour l’enregistrement des visites                       |
+| API REST / JSON       |              65% | Création, test et consommation d’API ; structuration de données JSON        |
+| Django ORM            |              55% | Modèles, migrations et accès aux données via Django                         |
+| SMTP / Gmail SMTP     |              50% | Configuration de notifications e-mail transactionnelles                     |
+
+
+BASE DE DONNEES
+| Technologie             | Maîtrise estimée | Justification                                                           |
+| ----------------------- | ---------------: | ----------------------------------------------------------------------- |
+| MySQL                   |              55% | Configuration Django/MySQL, migrations et vérification des données      |
+| PostgreSQL              |              45% | Technologie étudiée et prévue/initialement utilisée sur le projet borne |
+| WampServer / phpMyAdmin |              50% | Mise en place d’un environnement MySQL local pour le projet borne       |
+
+
+DEPLOIEMENT & DEVOPS
+| Technologie        | Maîtrise estimée | Justification                                                                     |
+| ------------------ | ---------------: | --------------------------------------------------------------------------------- |
+| Windows Deployment |              65% | Environnement virtuel Python, scripts .bat, démarrage automatique et mode kiosque |
+| Git / GitHub       |              60% | Gestion et publication de projets personnels sur GitHub                           |
+| Docker             |              45% | Projet WordPress conteneurisé sous Linux ; base pratique à renforcer              |
+| Linux              |              45% | Environnement de déploiement Docker/WordPress ; à approfondir                     |
+
+
+WORDPRESS & CMS
+| Technologie | Maîtrise estimée | Justification                                         |
+| ----------- | ---------------: | ----------------------------------------------------- |
+| WordPress   |              65% | Création et optimisation du site officiel ActivSpaces |
+
+OUTILS DATA ET AUTOMATISATION
+| Technologie                        | Maîtrise estimée | Justification                                                        |
+| ---------------------------------- | ---------------: | -------------------------------------------------------------------- |
+| Postman                            |              60% | Tests d’API REST et vérification des réponses                        |
+| Excel / nettoyage de données       |              65% | Tri, nettoyage et contrôle de cohérence de données électorales       |
+| Google Forms / Apps Script / Drive |              55% | Mise en place d’un formulaire de recrutement dans un contexte projet |
+| UX/UI tactile            |              60% | Wireframes, parcours visiteur, composants tactiles et charte graphique |
+
+
+
+Tes axes prioritaires pour atteindre un vrai niveau DevOps junior sont : Docker à 70%+, Linux à 65%+, Git avancé, CI/CD, Nginx, Gunicorn, gestion des secrets, cloud et monitoring.
+Version orientée vers ta progression DevOps : Développeur Full Stack Python/Django | API REST & Déploiement Web | En évolution vers le DevOps
+
